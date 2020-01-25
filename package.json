@@ -1,0 +1,27 @@
+{
+  "name": "Wallpaper",
+  "version": "1.0.0",
+  "description": "Wallpaper Tytarenko App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/bovatitar/wallpaper",
+  "keywords": [
+    "Electron",
+    "Wallpaper"
+  ],
+  "author": "Volodymyr Tytarenko",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^6.0.12",
+    "electron-packager": "^14.0.6"
+  },
+  "dependencies": {
+    "chokidar": "^3.2.1",
+    "electron-builder": "^21.2.0",
+    "national-geographic-api": "^2.0.4",
+    "request": "^2.88.0",
+    "wallpaper": "^4.4.1"
+  }
+}
