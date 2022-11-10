@@ -14,7 +14,7 @@
   "author": "Volodymyr Tytarenko",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^6.0.12",
+    "electron": "^18.3.7",
     "electron-packager": "^14.0.6"
   },
   "dependencies": {
